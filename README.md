@@ -136,7 +136,7 @@ python webcam_detection_enhanced.py \
 
 ### **Option 1: Quick Install (Recommended)**
 ```bash
-pip install git+https://github.com/vishnuskandha/LiveCam_Dectection.git
+pip install git https://github.com/vishnuskandha/LiveCam_Dectection.git
 ```
 
 ### **Option 2: Manual Setup**
