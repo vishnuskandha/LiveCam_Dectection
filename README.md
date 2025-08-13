@@ -4,10 +4,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-red.svg)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/yolov13-detection-suite?style=social)](https://github.com/yourusername/yolov13-detection-suite)
-[![Forks](https://img.shields.io/github/forks/yourusername/yolov13-detection-suite?style=social)](https://github.com/yourusername/yolov13-detection-suite)
-[![Issues](https://img.shields.io/github/issues/yourusername/yolov13-detection-suite)](https://github.com/yourusername/yolov13-detection-suite/issues)
-[![PRs](https://img.shields.io/github/issues-pr/yourusername/yolov13-detection-suite)](https://github.com/yourusername/yolov13-detection-suite/pulls)
 
 ---
 
