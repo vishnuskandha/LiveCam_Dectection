@@ -36,8 +36,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/yolov13-detection-suite.git
-cd yolov13-detection-suite
+git clone https://github.com/vishnuskandha/LiveCam_Dectection.git
+cd LiveCam_Dectection
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -62,7 +62,7 @@ python webcam_detection_enhanced.py --models yolov13s.pt
 | **yolov13m.pt** | 52.4 MB | 🟠 18 FPS | 🔵 91% | High accuracy |
 | **yolov13l.pt** | 87.7 MB | 🔴 12 FPS | 🔵 94% | Maximum precision |
 
-*Benchmarks tested on RTX 3080 GPU, 1080p input*
+*Benchmarks tested on RTX 3080 ti GPU, 1080p input*
 
 ---
 
@@ -136,20 +136,20 @@ python webcam_detection_enhanced.py \
 
 ### **Option 1: Quick Install (Recommended)**
 ```bash
-pip install git+https://github.com/yourusername/yolov13-detection-suite.git
+pip install git+https://github.com/vishnuskandha/LiveCam_Dectection.git
 ```
 
 ### **Option 2: Manual Setup**
 ```bash
-git clone https://github.com/yourusername/yolov13-detection-suite.git
-cd yolov13-detection-suite
+git clone https://github.com/vishnuskandha/LiveCam_Dectection.git
+cd LiveCam_Dectection
 pip install -r requirements.txt
 ```
 
 ### **Option 3: Docker (Coming Soon)**
 ```bash
-docker pull yourusername/yolov13-detection-suite
-docker run -it --gpus all yourusername/yolov13-detection-suite
+docker pull yourusername/LiveCam_Dectection
+docker run -it --gpus all vishnuskandha/LiveCam_Dectection
 ```
 
 ---
@@ -229,23 +229,11 @@ We love contributions! Here's how you can help:
 
 ### **Development Setup**
 ```bash
-git clone https://github.com/yourusername/yolov13-detection-suite.git
+git clone https://github.com/vishnuskandha/LiveCam_Dectection.git
 cd yolov13-detection-suite
 pip install -r requirements-dev.txt
 pre-commit install
 ```
-
----
-
-## 📚 **Documentation & Resources**
-
-- 📖 **[Full Documentation](https://yolov13-detection-suite.readthedocs.io)**
-- 🎥 **[Video Tutorials](https://youtube.com/playlist?list=your-playlist)**
-- 💬 **[Community Discord](https://discord.gg/your-server)**
-- 📧 **[Email Support](mailto:support@yourcompany.com)**
-- 🐛 **[Issue Tracker](https://github.com/yourusername/yolov13-detection-suite/issues)**
-
----
 
 ## 🏆 **Showcase Your Projects**
 
@@ -253,9 +241,7 @@ pre-commit install
 
 ```markdown
 # My Amazing Project
-Built with [YOLOv13 Live Detection Suite](https://github.com/yourusername/yolov13-detection-suite)
-
-[Add your project description and screenshots here]
+Built with [YOLOv13 Live Detection Suite](https://github.com/vishnuskandha/yolov13-LiveCam_Dectection)
 ```
 
 ---
@@ -278,15 +264,15 @@ This project is licensed under the **GNU Affero General Public License v3.0** - 
 <div align="center">
   <h3>🚀 Ready to revolutionize your object detection?</h3>
   
-  <a href="https://github.com/yourusername/yolov13-detection-suite">
+  <a href="https://github.com/vishnuskandha/LiveCam_Dectection">
     <img src="https://img.shields.io/badge/⭐-Star%20This%20Repo-yellow?style=for-the-badge&logo=github" alt="Star Repository">
   </a>
   
-  <a href="https://github.com/yourusername/yolov13-detection-suite/fork">
+  <a href="https://github.com/vishnuskandha/LiveCam_Dectection/fork">
     <img src="https://img.shields.io/badge/🍴-Fork%20This%20Repo-blue?style=for-the-badge&logo=github" alt="Fork Repository">
   </a>
   
   <br><br>
   
-  <em>Made with ❤️ by the YOLOv13 Detection Team</em>
+  <em>Made with ❤️ by vishnu ;)</em>
 </div>
