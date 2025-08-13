@@ -148,7 +148,7 @@ pip install -r requirements.txt
 
 ### **Option 3: Docker (Coming Soon)**
 ```bash
-docker pull yourusername/LiveCam_Dectection
+docker pull vishnuskandha/LiveCam_Dectection
 docker run -it --gpus all vishnuskandha/LiveCam_Dectection
 ```
 
