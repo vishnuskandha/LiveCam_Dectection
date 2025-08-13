@@ -34,18 +34,7 @@
 - 📊 **Real-Time Analytics**: Live performance monitoring
 - 🎭 **Ensemble Detection**: Combine multiple models for maximum accuracy
 - 🌈 **Customizable**: Easy parameter tuning and optimization
-
----
-
-## 🎬 **See It In Action**
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450/1a1a1a/ffffff?text=Live+Detection+Demo" alt="Live Detection Demo" width="800">
-  
-  *[Watch the full demo video here](https://youtu.be/your-video-id)*
-</div>
-
----
+- 
 
 ## 🚀 **Quick Start (30 Seconds)**
 
